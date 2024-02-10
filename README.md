@@ -1,7 +1,7 @@
 # ARM-MACHINE-DUM-E 🦾🤖🦿
 > This repo contain files sld about partitions I build **Arm Machine** for a contest at University. 
 
-## Arm Part
+## Arm Parts
 Each Part of this machine, i shown with these images below. You can change it by your selt using folder [file_step](https://github.com/Sonny-Inkai/ARM-MACHINE-DUM-E/tree/main/file_step). 
 
 <div align="center">
@@ -47,7 +47,7 @@ Each Part of this machine, i shown with these images below. You can change it by
 
 This project is licensed under the [MIT License](http://opensource.org/licenses/MIT).
 
-## <a name="Conclusion">conclusion 😍❤️🥰 </a>
+## <a name="Conclusion">Conclusion 😍❤️🥰 </a>
 ```
 If you found this helpful, kindly consider leaving a ⭐⭐⭐⭐⭐. 
 **Thanks for your attention!**
