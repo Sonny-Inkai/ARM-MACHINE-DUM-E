@@ -38,9 +38,9 @@ Each Part of this machine, i shown with these images below. You can change it by
 <!-- Container for GIFs -->
 <div>
     <!-- First GIF -->
-    <img src="https://github.com/Sonny-Inkai/ARM-MACHINE-DUM-E/blob/main/video/testing.gif" alt="First GIF" >
+    <img src="https://github.com/Sonny-Inkai/ARM-MACHINE-DUM-E/blob/main/video/testing.gif" alt="First GIF" height=500>
     <!-- Second GIF -->
-    <img src="https://github.com/Sonny-Inkai/ARM-MACHINE-DUM-E/blob/main/video/prepare_4_contest.gif" alt="Second GIF">
+    <img src="https://github.com/Sonny-Inkai/ARM-MACHINE-DUM-E/blob/main/video/prepare_4_contest.gif" alt="Second GIF" height=500>
 </div>
 
 ## <a>©️ License</a>
