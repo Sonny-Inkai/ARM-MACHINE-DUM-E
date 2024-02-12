@@ -2,7 +2,7 @@
 > This repo contain files sld about partitions I build **Arm Machine** for a contest at University. 
 
 ## Arm Parts
-Each Part of this machine, i shown with these images below. You can change it by your self using folder [file_step](https://github.com/Sonny-Inkai/ARM-MACHINE-DUM-E/tree/main/file_step). 
+> Each Part of this machine, i shown with these images below. You can change it by your self using folder [file_step](https://github.com/Sonny-Inkai/ARM-MACHINE-DUM-E/tree/main/file_step). 
 
 <div align="center">
     <figure>
